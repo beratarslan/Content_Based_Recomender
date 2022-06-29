@@ -7,7 +7,7 @@
 #############################
 
 #################################
-# 1. TF-IDF Matrisinin Oluşturulması
+# 1. Create TF-IDF Matrix
 #################################
 
 import pandas as pd
